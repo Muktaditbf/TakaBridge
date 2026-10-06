@@ -36,12 +36,8 @@
 
 ## 🎓 About
 
-University project for **Object Oriented Programming (CSE 2141-0613)**, University of Scholars.
-
-- **Mohammad Abu Yousuf Bhuiyan** — ID 252010277
-- **Tasnimul Hasan Efaz** — ID 252010203
-
-Supervised by **Ashif Mahmud Joy**.
+Built by **Muktadi** ([@Muktaditbf](https://github.com/Muktaditbf)) as a university project for
+**Object Oriented Programming (CSE 2141-0613)**, University of Scholars.
 
 ---
 
