@@ -1,0 +1,19 @@
+# Build output (recreated by build.bat)
+build/
+*.class
+*.war
+
+# Oracle JDBC driver - download it yourself (see README, section 4)
+src/main/webapp/WEB-INF/lib/*.jar
+
+# Tomcat, IDE and OS files
+tomcat11/
+logs/
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.DS_Store
+Thumbs.db
